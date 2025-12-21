@@ -21,5 +21,5 @@ function firstNonRepeatingChar(str)
     return;
 }
 
-let str = 'abcd';
+let str = 'aabcd';
 console.log(`The first non repeating character in the given string is: ${firstNonRepeatingChar(str)}`);
